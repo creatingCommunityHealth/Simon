@@ -3,6 +3,7 @@ Dr Simon Lennane
 BM DGM DRCOG MRCGP
 
 General Practitioner, Alton Street Surgery, Ross-on-Wye, Herefordshire
+
 Clinical Director, South and West Herefordshire Primary Care Network
 
 
