@@ -7,6 +7,7 @@ General Practitioner, Alton Street Surgery, Ross-on-Wye, Herefordshire
 Clinical Director, South and West Herefordshire Primary Care Network
 
 Twitter: @DrSimonLennane
+https://twitter.com/DrSimonLennane
 
 Declarations of interest:
 https://www.whopaysthisdoctor.org/doctor/406/active
