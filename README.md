@@ -6,13 +6,17 @@ General Practitioner, Alton Street Surgery, Ross-on-Wye, Herefordshire
 
 Clinical Director, South and West Herefordshire Primary Care Network
 
+Twitter: @DrSimonLennane
 
 Declarations of interest:
 https://www.whopaysthisdoctor.org/doctor/406/active
 
+Publications:
+https://github.com/DrSimonLennane/papers
 
-Podcast with Tim Shelley
-on Spotify
+
+Media:
+Podcast with Tim Shelley on Spotify
 
 pt 1 - Covid-19
 https://open.spotify.com/episode/2dKgeP6ZAxKu6LQu4iU8Wk
