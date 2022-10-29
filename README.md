@@ -14,7 +14,8 @@ Publications:
 https://github.com/DrSimonLennane/papers
 
 
-Podcast with Tim Shelley on Spotify
+Podcast with Tim Shelley on Spotify:
+
 pt 1 - Covid-19
 https://open.spotify.com/episode/2dKgeP6ZAxKu6LQu4iU8Wk
 
