@@ -3,6 +3,8 @@ Dr Simon Lennane
 BM DGM DRCOG MRCGP
 
 General Practitioner, Alton Street Surgery, Ross-on-Wye, Herefordshire
+Trustee, Ross Community Development Trust
+PCN inequalities lead. 
 
 Twitter: @SimonLennane
 https://twitter.com/SimonLennane
@@ -12,7 +14,6 @@ https://www.whopaysthisdoctor.org/doctor/406/active
 
 Publications:
 https://github.com/DrSimonLennane/papers
-
 
 Podcast with Tim Shelley on Spotify:
 
