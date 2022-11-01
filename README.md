@@ -15,7 +15,7 @@ Declarations of interest:
 https://www.whopaysthisdoctor.org/doctor/406/active
 
 Publications:
-https://github.com/DrSimonLennane/papers
+https://github.com/creatingCommunityHealth/Simon/blob/main/Papers.md
 
 Podcast with Tim Shelley on Spotify:
 
