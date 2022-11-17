@@ -9,12 +9,12 @@ Trustee, Ross Community Development Trust
 PCN inequalities lead. Was PCN CD. 
 
 Mastodon: @SimonLennane@mas.to
-https://mas.to/@SimonLennane
+
+<a rel="me" href="https://mas.to/@SimonLennane">Mastodon</a>
+
 
 Twitter: @SimonLennane
 https://twitter.com/SimonLennane
-
-<a rel="me" href="https://mas.to/@SimonLennane">Mastodon</a>
 
 Declarations of interest:
 https://www.whopaysthisdoctor.org/doctor/406/active
