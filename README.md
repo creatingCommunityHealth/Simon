@@ -6,10 +6,15 @@ General Practitioner, Alton Street Surgery, Ross-on-Wye, Herefordshire
 
 Trustee, Ross Community Development Trust
 
-PCN inequalities lead. 
+PCN inequalities lead. Was PCN CD. 
+
+Mastodon: @SimonLennane@mas.to
+https://mas.to/@SimonLennane
 
 Twitter: @SimonLennane
 https://twitter.com/SimonLennane
+
+<a rel="me" href="https://mas.to/@SimonLennane">Mastodon</a>
 
 Declarations of interest:
 https://www.whopaysthisdoctor.org/doctor/406/active
