@@ -8,10 +8,13 @@ Trustee, Ross Community Development Trust
 
 PCN inequalities lead. Was PCN CD. 
 
+Book, 'Creating Community Health' due out on Routledge May 2023
+
+https://www.routledge.com/Creating-Community-Health-Interventions-for-Sustainable-Healthcare/Lennane/p/book/9781032490045
+
 Mastodon: @SimonLennane@mas.to
 
 <a rel="me" href="https://mas.to/@SimonLennane">Mastodon</a>
-
 
 Twitter: @SimonLennane
 https://twitter.com/SimonLennane
