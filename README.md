@@ -22,6 +22,9 @@ https://www.whopaysthisdoctor.org/doctor/406/active
 Publications:
 https://github.com/creatingCommunityHealth/Simon/blob/main/Papers.md
 
+Survival of the Kindest podcast with Julian Abel, episode 100:
+https://open.spotify.com/episode/6gdhPcSbZxAIMqMPD6SD9Z
+
 Podcast with Tim Shelley on Spotify:
 
 pt 1 - Covid-19
