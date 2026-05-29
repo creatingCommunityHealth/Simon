@@ -3,12 +3,15 @@ Dr Simon Lennane
 BM DGM DRCOG MRCGP PGCME
 
 General Practitioner, Alton Street Surgery, Ross-on-Wye, Herefordshire
+
 Medical lead, Ross Community Hospital, Ross-on-Wye
 
 Book, 'Creating Community Health' published by Routledge in 2023: https://www.routledge.com/Creating-Community-Health-Interventions-for-Sustainable-Healthcare/Lennane/p/book/9781032490045
 
 Trustee, Ross Community Development Trust
+
 Trustee, @theHub, Ross-on-Wye
+
 PCN inequalities lead. Previously PCN CD. 
 
 
